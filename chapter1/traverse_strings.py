@@ -3,12 +3,17 @@ s = "Coding Factory"
 found = False
 
 for i in range(len(s)):
-  if "W" in s:
-    print(f"We found c in: {s} ")
+  if "C" in s:
+    print(f"We found C in: {s} ")
     found = True
     break
-if not found:
+  if not found:
     print("we dont find it")
+   
+
+for i in range(len(s)):
+  print(s[::-1]) 
+  break
    
   
   # print(s[i], end= '')
