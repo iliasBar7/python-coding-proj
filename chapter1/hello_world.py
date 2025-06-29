@@ -6,8 +6,10 @@ print("Hello World","Coding Factory", sep= "-" )
 
 
 
+s = "Coding Factory"
 
-  
+
+
    
     
   
